@@ -1,0 +1,7 @@
+siteMetadata: {
+    title: 'Church of Nazerene Palmarejo',
+    siteUrl: 'http://INPalmarejo:5001',
+    description: 'Prize to the Lord, Jesus Cristo',
+    copyright: 'Copyright 2022 Church of Nazerene',
+    contact:'CNPalmarejo@microsoft.com'
+  }
